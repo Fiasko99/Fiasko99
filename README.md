@@ -1,17 +1,4 @@
-### Hi there 👋, I'm Gans
-
 ![](https://komarev.com/ghpvc/?username=Fiasko99)
-
-## I'm a Full-stack developer, and Teacher
-- 💪 I like to write code
-- 🎉 I love to paint and play the guitar
-- 🥅 I am constantly learning new things
-
-### Connect with me:
-
-[<img align="left" alt="Andrey Vorobew" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-
-<br />
 
 ### Languages and Tools:
 
